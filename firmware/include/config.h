@@ -1,13 +1,13 @@
 #pragma once
 
 // ----------------- Wi-Fi Configuration -----------------
-#define EMO_WIFI_SSID           "Aathisivan's Phone"
-#define EMO_WIFI_PASSWORD       "AATHI@1104"
+#define EMO_WIFI_SSID           " " //ADD YOUR WIFI SSID HERE
+#define EMO_WIFI_PASSWORD       " " //ADD YOUR WIFI PASSWORD HERE
 #define EMO_WIFI_MAX_RETRY      5
 
 // ----------------- Backend / Tunnel API ----------------
-#define EMO_BACKEND_BASE_URL    "https://divaan-backend.onrender.com"
-#define VERCEL_BYPASS_SECRET    "divaan_secure_bypass_key_2026"
+#define EMO_BACKEND_BASE_URL    " " //ADD YOUR BACKEND URL HERE
+#define VERCEL_BYPASS_SECRET    " " //ADD YOUR BYPASS SECRET HERE
 
 // ----------------- Hardware GPIO Mapping ----------------
 // 4x Capacitive Head/Cheek Touch Sensors
